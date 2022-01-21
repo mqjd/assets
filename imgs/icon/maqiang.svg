@@ -1,0 +1,13 @@
+<svg width="300" height="100" viewBox="0 0 33 10"
+    xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="p1" x1="0" y1="0" x2="100%" y2="100%">
+        <stop stop-color="#f7fafc" offset="10%"/>
+        <stop stop-color="#e53e3e" offset="30%"/>
+        <stop stop-color="#38a169" offset="50%"/>
+        <stop stop-color="#ecc94b" offset="70%"/>
+        <stop stop-color="#4299e1" offset="90%"/>
+    </linearGradient>
+    <g>
+        <text font-size="8" x="0" y="8" font-family="Georgia, Times, 'Times New Roman', serif" opacity=".1" fill="url(#p1)">QiangMa</text>
+    </g>
+</svg>
