@@ -6,6 +6,6 @@ set -e
 git config --global user.name "mqjd"
 git config --global user.email "1378415278@qq.com"
 
-giteeUrl=https://MQJD:${GITEE_TOKEN}@gitee.com/MQJD/mqjd.git
+giteeUrl=https://MQJD:${GITEE_TOKEN}@gitee.com/MQJD/assets.git
 
 git push -f $giteeUrl master # 推送到gitee
