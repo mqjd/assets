@@ -10,5 +10,5 @@ do
 done
 
 git add .
-git commit -m "add image"
+git commit -m "update assets"
 git push
