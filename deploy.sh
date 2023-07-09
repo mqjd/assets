@@ -9,3 +9,5 @@ git config --global user.email "1378415278@qq.com"
 giteeUrl=https://MQJD:${GITEE_TOKEN}@gitee.com/MQJD/mqjd.git
 
 git push -f $giteeUrl master # 推送到gitee
+
+curl https://purge.jsdelivr.net/gh/mqjd/assets@main
