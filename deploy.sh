@@ -15,3 +15,5 @@ git add -A
 git commit -m "来自github actions的自动部署"
 
 git push -f $giteeUrl master # 推送到gitee
+
+curl https://purge.jsdelivr.net/gh/mqjd/assets@main
