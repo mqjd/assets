@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-07-10T01:05:48.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="r89I2ceBq-05pDaNP5Me" version="21.6.1" type="device" pages="4">
+<mxfile host="Electron" modified="2023-07-10T01:27:03.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="Rj8-MI8OVg-brWzAAsfx" version="21.6.1" type="device" pages="4">
   <diagram name="大数据架构" id="zl_y5lM4s7gCjHx6JeRD">
     <mxGraphModel dx="1242" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,10 +525,6 @@
             <mxPoint x="440" y="180" as="sourcePoint" />
             <mxPoint x="520" y="110" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6F29V-DHfXmeQx8DBocp-80" value="未命名图层" parent="0" />
-        <mxCell id="6F29V-DHfXmeQx8DBocp-81" value="任&lt;br&gt;务&lt;br&gt;调&lt;br&gt;度&lt;br&gt;管&lt;br&gt;理&lt;br&gt;系&lt;br&gt;统" style="rounded=1;whiteSpace=wrap;fillColor=#00796B;strokeColor=none;fontSize=14;fontColor=#FFFFFF;html=1;labelBackgroundColor=none;labelBorderColor=none;horizontal=1" parent="6F29V-DHfXmeQx8DBocp-80" vertex="1">
-          <mxGeometry x="-110" y="380" width="60" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

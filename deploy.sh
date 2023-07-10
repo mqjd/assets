@@ -3,6 +3,8 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+curl https://purge.jsdelivr.net/gh/mqjd/assets@main/
+
 git config --global user.name "mqjd"
 git config --global user.email "1378415278@qq.com"
 
@@ -16,4 +18,3 @@ git commit -m "来自github actions的自动部署"
 
 git push -f $giteeUrl master # 推送到gitee
 
-curl https://purge.jsdelivr.net/gh/mqjd/assets@main
