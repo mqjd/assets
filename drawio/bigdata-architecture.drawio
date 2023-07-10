@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-07-10T01:27:03.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="Rj8-MI8OVg-brWzAAsfx" version="21.6.1" type="device" pages="4">
+<mxfile host="Electron" modified="2023-07-10T03:36:49.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="d0lX69Dr1NiOk0l3UQc6" version="21.6.1" type="device" pages="4">
   <diagram name="大数据架构" id="zl_y5lM4s7gCjHx6JeRD">
     <mxGraphModel dx="1242" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,12 +341,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="luMo-4r0XzbIIjVrU_fC" name="典型架构">
-    <mxGraphModel dx="2069" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2896" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6F29V-DHfXmeQx8DBocp-1" value="平台架构" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;whiteSpace=wrap;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="-1070" width="640" height="660" as="geometry" />
+          <mxGeometry x="-870" y="-1060" width="640" height="660" as="geometry" />
         </mxCell>
         <mxCell id="6F29V-DHfXmeQx8DBocp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;width=8.4304932735426;endSize=2.635874439461883;endWidth=16.83099255349232;fillColor=#616161;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="6F29V-DHfXmeQx8DBocp-1" source="6F29V-DHfXmeQx8DBocp-14" target="6F29V-DHfXmeQx8DBocp-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -525,6 +525,9 @@
             <mxPoint x="440" y="180" as="sourcePoint" />
             <mxPoint x="520" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-6aowT4C-pnQbWyfdPbm-1" value="&lt;div&gt;任&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;调&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00796B;strokeColor=none;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-800" width="40" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
